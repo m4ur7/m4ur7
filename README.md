@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @m4ur7 Mauricio Orellana. I'm from El Salvador but I have lived in Madrid Since 06/2016. I'm Industrial Engineer and have a Master degree in Logistics.
+- 👋 Hi, I’m @m4ur7 Mauricio Orellana. I'm from El Salvador but I have lived in Madrid, Spain since 06/2016. I'm Industrial Engineer and have a Master degree in Logistics.
 - 👀 I’m interested in become proficient in Web development, master technologies as HTML/ CSS/ JavaScript and much more.
 - 🌱 I’m currently learning Full Stack Developer and Inmersive Technologies in a BootCamp in Madrid.
 - 💞️ I’m looking to collaborate on web design or Immersive UX/UI Design Technologies 
